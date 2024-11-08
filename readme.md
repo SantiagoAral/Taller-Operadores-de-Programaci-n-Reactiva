@@ -56,11 +56,6 @@ Zip Result: Eve - Grade: 91.0
 [INFO] Total time:  0.983 s
 [INFO] Finished at: 2024-11-08T16:27:56-05:00
 [INFO] ------------------------------------------------------------------------
-# Taller sobre Operadores de Programación Reactiva
 
-**Nombre:** Santiago Andres Araque  
-**Operadores Utilizados:** Map, Filter, FlatMap, Merge y Zip
-
-### Ejecución:
 ```
 
