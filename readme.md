@@ -1,15 +1,19 @@
 # Taller sobre Operadores de Programación Reactiva
 
-Nombre:Santiago Andres Araque
+**Nombre:** Santiago Andres Araque  
+**Operadores Utilizados:** Map, Filter, FlatMap, Merge y Zip
 
-Operadores Utilizados: Map, Filter, FlapMap, Merge y Zip
+### Ejecución:
 
-Ejecucion: mvn compile
-           mvn exec:java/mvn exec:java -Dexec.mainClass="com.example.ReactiveExamples"
-
-
-Resultado Codigo: 
+```bash
+mvn compile
+mvn exec:java
+# o
+mvn exec:java -Dexec.mainClass="com.example.ReactiveExamples"
 ```
+
+###Codigo Resultado:
+
 [INFO] Scanning for projects...
 [INFO] 
 [INFO] -------------------< com.example:reactive-operators >-------------------
